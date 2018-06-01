@@ -22,7 +22,7 @@ html {
 
 @media only screen and (max-width: 800px) {
   #dolphin{
-    position: fixed;
+    position: absolute;
     top: 100px;
   }
 }
