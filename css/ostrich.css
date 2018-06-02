@@ -10,10 +10,10 @@ html {
 
 /* Write your solution here */
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 1000px) {
   #ostrich{
     position: relative;
-    bottom: 100px;
+    top: 10px;
     right: 0;
   }
 }
